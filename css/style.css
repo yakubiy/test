@@ -1,0 +1,18 @@
+header{
+    border: 1px solid red;
+}
+header h1{
+    color: red;
+    text-align: center;
+    font-family: monospace;
+    font-size: 60px;}
+
+footer{
+    border: 1px solid black;
+}
+footer h1{
+    text-align: center;
+    color: dodgerblue;
+    font-size: 55px;
+
+}
