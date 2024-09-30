@@ -1,0 +1,9 @@
+header{
+    border: 1px solid red;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-family: monospace;
+}
